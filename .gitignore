@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+green-grid-dashboard/  
+
+# Data
+data/raw_data.json
+data/processed_data.csv
+
+# Models
+models/*.joblib
+
+# OS-specific
+.DS_Store
+Thumbs.db
