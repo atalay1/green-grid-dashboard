@@ -18,3 +18,5 @@ models/*.joblib
 # OS-specific
 .DS_Store
 Thumbs.db
+
+task_list.md
